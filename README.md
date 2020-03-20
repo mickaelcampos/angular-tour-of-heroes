@@ -1,4 +1,10 @@
-# AngularTourOfHeroes
+# Tour of Heroes App
+
+In this tutorial, i've build an  app from the ground up, gained experience with the development process as well as a more thorough introduction to basic concepts.
+
+The Tour of Heroes app created serves as the conceptual basis for many examples throughout Angular documentation.
+
+## AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
 
